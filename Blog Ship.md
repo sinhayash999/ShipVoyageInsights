@@ -9,7 +9,7 @@ description: Movements, Pirate attacks, wind flows and other insights
 ================
 
 <p class="meta">
-Yash Sinha
+Yash Sinha & 
 Sonal Sidhu Sharma
 </p>
 
@@ -425,5 +425,5 @@ Feedback/Comments/suggestions, as well as contributions on this blog are
 welcome.
 
 <p class="meta"\>
-Published on 07/June/2019
+Published on 02/July/2019
 </p>
